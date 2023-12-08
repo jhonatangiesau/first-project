@@ -1,0 +1,3 @@
+{
+  "rewriver": [{ "source": "/(.*)", "destination": "/" }]
+}
